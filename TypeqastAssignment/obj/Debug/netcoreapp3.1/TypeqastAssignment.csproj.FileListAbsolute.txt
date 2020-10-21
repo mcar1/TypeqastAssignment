@@ -1,0 +1,13 @@
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\bin\Debug\netcoreapp3.1\TypeqastAssignment.exe
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\bin\Debug\netcoreapp3.1\TypeqastAssignment.deps.json
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\bin\Debug\netcoreapp3.1\TypeqastAssignment.runtimeconfig.json
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\bin\Debug\netcoreapp3.1\TypeqastAssignment.runtimeconfig.dev.json
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\bin\Debug\netcoreapp3.1\TypeqastAssignment.dll
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\bin\Debug\netcoreapp3.1\TypeqastAssignment.pdb
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.csprojAssemblyReference.cache
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.AssemblyInfoInputs.cache
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.AssemblyInfo.cs
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.dll
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.pdb
+C:\Users\Marta\source\repos\TypeqastAssignment\TypeqastAssignment\obj\Debug\netcoreapp3.1\TypeqastAssignment.genruntimeconfig.cache
